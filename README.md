@@ -1,4 +1,6 @@
 # locadora
+# Autor Daniel Barreto
+# https://github.com/DanielEJBarreto/locadora
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
